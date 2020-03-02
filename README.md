@@ -1,6 +1,6 @@
 
 ## PROJECT NAME.
-Pizza-Pap-In.
+Pizza-Pap-Inn.
 
 ## AUTHOR
 Samwel Adiema Rangili.
