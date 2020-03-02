@@ -15,7 +15,7 @@ function Address(street, estate, phoneNumber) {
     this.phoneNumber = phoneNumber;
 }
 
-Address.prototype.addressDetails = function () {
+Address.prototype.address = function () {
     return "Hello,we have received your order and will be delivered at " + this.street + ", " + this.estate + " we'll reach you in the next couple of time. Remember:For delivery, An extra ksh.150 will be charged."
 };
 
@@ -79,9 +79,9 @@ $(document).ready(function () {
 
         var street = $("input#street").val();
          var estate = $("input#estate").val();
-         var phoneDetails = $("input#phoneDetails").val();
+         var phoneNumber = $("input#phoneNumber").val();
 
         let newAddress = new Address(street, estate, phoneNumber);
-        alert(newAddress.addressDetails());
+        alert(newAddress.address());
     });
 });
