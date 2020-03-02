@@ -14,7 +14,7 @@ Samwel Adiema Rangili.
 * HTML
 * CSS
 * jS
-
+## CONTRIBUTORS
 
 ## PROJECT LIVE LINK
  https://samwelrangili.github.io/Pizza-Pap/
