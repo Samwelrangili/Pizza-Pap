@@ -58,7 +58,7 @@ $(document).ready(function () {
             case "Large":
                 price = 1000;
             default:
-                console.log("Error");
+                console.log("Invalid");
         };
        
 
@@ -72,7 +72,7 @@ $(document).ready(function () {
             case "Gluten-free":
                 c_price = 500;
             default:
-                console.log("Error");
+                console.log("Invalid");
         };
         
         topping_value = pToppings.length * 100;
