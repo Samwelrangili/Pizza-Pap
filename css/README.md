@@ -15,6 +15,8 @@ Samwel Adiema Rangili.
 * CSS
 * jS
 ## CONTRIBUTORS
+* The project had only one contributor that is (Samwel Rangili). Tthe project had no collaborators in the Repository.
+
 
 ## PROJECT LIVE LINK
  https://samwelrangili.github.io/Pizza-Pap/
