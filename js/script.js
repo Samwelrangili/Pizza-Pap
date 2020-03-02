@@ -56,7 +56,7 @@ $(document).ready(function () {
             case "Medium":
                 price = 600;
             case "Large":
-                price = 900;
+                price = 1000;
             default:
                 console.log("Error");
         };
