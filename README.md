@@ -19,7 +19,6 @@ Samwel Adiema Rangili.
 
 
 ## PROJECT LIVE LINK
- https://samwelrangili.github.io/Pizza-Pap/
 
  ## CONTACTS
 * For more information you may reach me at;
